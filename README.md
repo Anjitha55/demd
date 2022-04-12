@@ -1,2 +1,0 @@
-# demd
-class works

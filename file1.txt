@@ -1,3 +1,0 @@
-This is test line.
-extra text line.
-This is line added after stash command
